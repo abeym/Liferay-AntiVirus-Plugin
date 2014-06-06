@@ -1,0 +1,11 @@
+### Windows ###
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+
+### Java ###
+*.class
+classes/
+target/
+
